@@ -2,7 +2,6 @@
 
 **RebootedReality** is a private Fortnite server project made completely from scratch by Zwtzy. It’s a full multiplayer experience with a working backend, custom launcher, modded game client, and a real website for news and shop updates.
 
-This is not a clone or based on any other project — it’s 100% original.
 
 ---
 
