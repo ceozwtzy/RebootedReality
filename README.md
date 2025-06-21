@@ -44,7 +44,7 @@ GitHub: [ceozwtzy](https://github.com/ceozwtzy)
 ## 🛠 Join the Project
 
 - GitHub Issues = Task board
-- Discord = Team hub (server coming soon!)
+- Discord = Team hub https://discord.gg/bnunyuf9FH
 - Everything will be open source for trusted devs
 
 ---
